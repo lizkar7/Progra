@@ -22,6 +22,7 @@ public class Main {
         */
 
         // Task 2*
+/*
         User user1 = new User(1, "Mari", "mari@mail.com");
         User user2 = new User(2, "Ann", "ann@mail.com");
 
@@ -69,7 +70,7 @@ public class Main {
         System.out.println("Сравнение ссылок: " + (orig == clone));
         System.out.println("Сравнение equals: "+ orig.equals(clone));
         scanner.close();
-
+        */
 
     }
 }
